@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.contents {
+  background-color: antiquewhite;
+}
+
+.center {
+  text-align: center;
+}
+
+
+
+.center img {
+  border-radius: 200px;
+  margin-top: 30px;
+}
+
+.center h2 {
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  height: auto;
+  width: 350px;
+  background-color: aquamarine;
+  text-align: center;
+  padding: 20px 30px;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+.card i {
+  font-size: 50px;
+  margin: 30px 0;
+}
+
+.paragraph p {
+  margin-bottom: 25px;
+}
+
+.button {
+  background-color: aqua;
+  padding: 13px 30px;
+  border-radius: 10px;
+  font-weight: bold;
+  text-decoration: none;
+}
